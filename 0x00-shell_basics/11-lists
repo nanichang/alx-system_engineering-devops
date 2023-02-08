@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al\nls -al ..\nls -al /boot
+ls -al \n ls -al .. \n ls -al /boot
