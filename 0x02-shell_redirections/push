@@ -1,0 +1,117 @@
+#!/bin/bash
+
+# Commit 0-hello_world and push
+git add 0-hello_world
+git commit -m "Added 0-hello_world file"
+git push
+
+# Commit 1-confused_smiley and push
+git add 1-confused_smiley
+git commit -m "aded 1-confused_smiley file"
+git push
+
+#Commit 2-hellofile file and push
+git add 2-hellofile
+git commit -m "added 2-hellofile file"
+git push
+
+#Commit 3-twofiles file and push
+git add 3-twofiles
+git commit -m "added 3-twofiles file"
+git push
+
+#Commit 4-lastlines file and push
+git add 4-lastlines
+git commit -m "added 4-lastlines file"
+git push
+
+#Commit 5-firstlines file and push
+git add 5-firstlines
+git commit -m "added 5-firstlines file"
+git push
+
+#Commit 6-third_line file and push
+git add 6-third_line
+git commit -m "added 6-third_line file"
+git push
+
+#Commit 7-file file and push
+git add 7-file
+git commit -m "added 7-file file"
+git push
+
+#Commit 8-cwd_state file and push
+git add 8-cwd_state
+git commit -m "added 8-cwd_state file"
+git push
+
+#Commit 9-duplicate_last_line file and push
+git add 9-duplicate_last_line
+git commit -m "added 9-duplicate_last_line file"
+git push
+
+#Commit 10-no_more_js file and push
+git add 10-no_more_js
+git commit -m "added 10-no_more_js file"
+git push
+
+#Commit 11-directories file and push
+git add 11-directories
+git commit -m "added 11-directories file"
+git push
+
+#Commit 12-newest_files file and push
+git add 12-newest_files
+git commit -m "added 12-newest_files file"
+git push
+
+#Commit 13-unique file and push
+git add 13-unique
+git commit -m "added 13-unique file"
+git push
+
+#Commit 14-findthatword file and push
+git add 14-findthatword
+git commit -m "added 14-findthatword file"
+git push
+
+#Commit 15-countthatword file and push
+git add 15-countthatword
+git commit -m "added 15-countthatword file"
+git push
+
+#Commit 16-whatsnext file and push
+git add 16-whatsnext
+git commit -m "added 16-whatsnext file"
+git push
+
+#Commit 17-hidethisword file and push
+git add 17-hidethisword
+git commit -m "added 17-hidethisword file"
+git push
+
+#Commit 18-letteronly file and push
+git add 18-letteronly
+git commit -m "added 18-letteronly file"
+git push
+
+#Commit 19-AZ file and push
+git add 19-AZ
+git commit -m "added 19-AZ file"
+git push
+
+#Commit 20-hiago file and push
+git add 20-hiago
+git commit -m "added 20-hiago file"
+git push
+
+#Commit 21-reverse file and push
+git add 21-reverse
+git commit -m "added 21-reverse file"
+git push
+
+#Commit 22-users_and_homes file and push
+git add 22-users_and_homes
+git commit -m "added 22-users_and_homes file"
+git push
+
